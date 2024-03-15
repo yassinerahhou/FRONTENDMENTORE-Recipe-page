@@ -1,0 +1,40 @@
+body {
+  background-color: hsl(21, 43%, 83%);
+}
+
+h2,
+h3 {
+  color: hsl(332, 51%, 32%);
+}
+.prepa_time {
+  margin: auto;
+
+  margin: 0 auto; /* Set left and right margin to auto */
+  background-color: rgb(255, 242, 250); /* Just for visibility */
+  padding: 20px; /* Add padding for better appearance */
+}
+
+td,
+th {
+  padding: 10px; /* Add padding inside the cells */
+}
+table {
+  margin: auto;
+  width: 80%;
+}
+.inside {
+  margin: auto;
+  padding: 0 2% 0 2%;
+
+  width: 80%;
+
+  background-color: white;
+}
+
+.first_img {
+  background-image: url("assets/images/image-omelette.jpeg");
+  background-size: cover;
+  height: 300px;
+  width: 90%;
+  margin: auto;
+}
